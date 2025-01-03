@@ -1,5 +1,8 @@
 # Sprunki Game [Original]
 
+![logo-landscape](https://github.com/user-attachments/assets/e171793d-5e89-4304-806a-a6d55be347d4)
+
+
 [Official site](https://sprunki.la/)  
 [Mirror site](https://sprunki-incredibox.org/)  
 
