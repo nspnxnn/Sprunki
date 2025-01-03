@@ -1,7 +1,7 @@
 # Sprunki Game [Original]
 
-[Official site](https://sprunki.la/)
-[Mirror site](https://sprunki-incredibox.org/)
+[Official site](https://sprunki.la/)  
+[Mirror site](https://sprunki-incredibox.org/)  
 
 ## Why Play Sprunki
 - **Free to Play**: Experience the full game without any downloads or fees.
